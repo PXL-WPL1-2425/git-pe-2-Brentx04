@@ -1,0 +1,10 @@
+nav {
+    position: absolute;
+    width: 100%;
+    justify-content: space-between;
+}
+
+nav div{
+    display: flex;
+    width: 33%;
+}
