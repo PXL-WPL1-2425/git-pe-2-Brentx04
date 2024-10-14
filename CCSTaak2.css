@@ -26,3 +26,11 @@ img {
     height: 50px;
 }
 
+.Button a{
+    font-weight: bold;
+    color: black;
+    background: red;
+    border-radius: 20px;
+    padding: 5px;
+}
+
